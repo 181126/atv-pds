@@ -9,4 +9,3 @@ C:\Users\leide\OneDrive\Documentos\códigos\3 ano\atv1PDS\atv1PDS\obj\Debug\atv1
 C:\Users\leide\OneDrive\Documentos\códigos\3 ano\atv1PDS\atv1PDS\obj\Debug\atv1PDS.csproj.CoreCompileInputs.cache
 C:\Users\leide\OneDrive\Documentos\códigos\3 ano\atv1PDS\atv1PDS\obj\Debug\atv1PDS.exe
 C:\Users\leide\OneDrive\Documentos\códigos\3 ano\atv1PDS\atv1PDS\obj\Debug\atv1PDS.pdb
-C:\Users\leide\OneDrive\Documentos\códigos\3 ano\atv1PDS\atv1PDS\obj\Debug\atv1PDS.Form2.resources
